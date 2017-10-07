@@ -14,7 +14,7 @@ It is only intented to work for subdirectories. If you want to download a whole 
 
 Find location of git binary with `which git`. 
 
-The Result should look like `/usr/local/bin/git`.
+The result should look like `/usr/local/bin/git`.
 
 Place `git-download` into the folder where git is located.
 
