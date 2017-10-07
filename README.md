@@ -20,7 +20,9 @@ Place `git-download` into the folder where git is located.
 
 **Usage Example**
 
-Locate the subdirectory on github in browser. Copy link. Final command should look like the following (e.g. for linalg subdirectory of numpy):
+Locate the subdirectory (you want to download) on github. Copy link. 
+
+Final command should look like the following (e.g. for linalg subdirectory of numpy)
 
 ```
 git download https://github.com/numpy/numpy/tree/master/numpy/linalg
