@@ -8,7 +8,7 @@
 
 Download subdirectories (only) from a github repository.
 
-It is only intented to work for subdirectories. If you want to download a whole repository, then use `git clone`.
+It is only intented to work for subdirectories.
 
 **Installation**
 
